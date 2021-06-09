@@ -1,3 +1,2 @@
-Giovanni password 100 
-Lomby password 40 
-prova prova 0 
+Giovanni password 3008 
+Lomby password 60 
